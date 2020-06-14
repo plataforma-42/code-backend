@@ -4,7 +4,7 @@
 	Este repositório contem códigos para API de Consultas
 
 ## Baixar o código
-	git clone https://github.com/coronathonbr-42/coronathonbr-42.github.io.git
+	git clone https://github.com/plataforma-42/code-backend.git
 
 ## Criar o projeto code-backend
  	mkdir node-server
